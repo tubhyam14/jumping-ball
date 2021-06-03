@@ -16,7 +16,7 @@ function setup(){
     block1.shapeColor = "blue";
 
     block2 = createSprite(295,580,200,30);
-    block2.shapeColor = "yellow";
+    block2.shapeColor =  "yellow";
 
     //create two more blocks i.e. block3 and block4 here
     block3 = createSprite(515,580,200,30);
